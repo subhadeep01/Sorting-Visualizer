@@ -12,6 +12,7 @@ A JavaScript web application for visualizing various sorting algorithms. Impleme
 
 ## How to use
 
+- Click here https://subhadeep01.github.io/Sorting-Visualizer
 - Click on the algorithm you want to visualize
 - Adjust speed and size of the array
 
